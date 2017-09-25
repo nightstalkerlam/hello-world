@@ -1,3 +1,3 @@
 # hello-world
 test repository
-print("Hi")
+This is how I practice coding with the world.
