@@ -1,3 +1,3 @@
 # hello-world
 test repository
-I messed up... Lol
+This is how I practice coding with the world.
